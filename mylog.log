@@ -1,0 +1,115 @@
+2021-10-08 22:21:07,365 INFO com.example.demo_spring.DemoSpringApplication [main] Starting DemoSpringApplication using Java 11.0.12 on DESKTOP-TAPJK9F with PID 1136 (C:\Users\nguye\Documents\Idea Project\demo_spring\target\classes started by Nguyen Vi in C:\Users\nguye\Documents\Idea Project\demo_spring)
+2021-10-08 22:21:07,365 INFO com.example.demo_spring.DemoSpringApplication [main] No active profile set, falling back to default profiles: default
+2021-10-08 22:21:08,720 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$2eb54cb4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-10-08 22:21:08,784 INFO org.springframework.ws.soap.addressing.server.AnnotationActionEndpointMapping [main] Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2021-10-08 22:21:09,122 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-10-08 22:21:09,138 INFO org.apache.coyote.http11.Http11NioProtocol [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-08 22:21:09,138 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-10-08 22:21:09,138 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-10-08 22:21:09,265 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-10-08 22:21:09,265 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1783 ms
+2021-10-08 22:21:09,811 INFO org.apache.coyote.http11.Http11NioProtocol [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-08 22:21:09,842 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-10-08 22:21:09,871 INFO com.example.demo_spring.DemoSpringApplication [main] Started DemoSpringApplication in 3.534 seconds (JVM running for 7.748)
+2021-10-08 22:21:09,893 INFO com.example.demo_spring.DemoSpringApplication [main] ConfigCredentialsProperties(host=null, port=9000, from=nguyenvi@gmail.com, defaultRecipients=[admin@gmail.com, owner@gmail.com], additionalHeaders={redelivery=true, secure=true}, credentials=Credentials(authMethod=SHA1, username=vinguyen, password=password))
+2021-10-08 22:21:09,900 INFO com.example.demo_spring.DemoSpringApplication [main] Item(name=iphone13, value=20000)
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 0
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 1
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 2
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 3
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 4
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 5
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 6
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 7
+2021-10-08 22:21:09,901 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 8
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 9
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 10
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 11
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 12
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 13
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 14
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 15
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 16
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 17
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 18
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 19
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 20
+2021-10-08 22:21:09,902 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 21
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 22
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 23
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 24
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 25
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 26
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 27
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 28
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 29
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 30
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 31
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 32
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 33
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 34
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 35
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 36
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 37
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 38
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 39
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 40
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 41
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 42
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 43
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 44
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 45
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 46
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 47
+2021-10-08 22:21:09,903 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 48
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 49
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 50
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 51
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 52
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 53
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 54
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 55
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 56
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 57
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 58
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 59
+2021-10-08 22:21:09,904 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 60
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 61
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 62
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 63
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 64
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 65
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 66
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 67
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 68
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 69
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 70
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 71
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 72
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 73
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 74
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 75
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 76
+2021-10-08 22:21:09,905 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 77
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 78
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 79
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 80
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 81
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 82
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 83
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 84
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 85
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 86
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 87
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 88
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 89
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 90
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 91
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 92
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 93
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 94
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 95
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 96
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 97
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 98
+2021-10-08 22:21:09,906 INFO com.example.demo_spring.DemoSpringApplication [main] Log: 99

@@ -1,0 +1,26 @@
+mail:
+  hostname : nguyenvi
+  port: 9000
+  from: nguyenvi@gmail.com
+  defaultRecipients[0]: admin@gmail.com
+  defaultRecipients[1]: owner@gmail.com
+  additionalHeaders:
+      redelivery: true
+      secure: true
+  credentials:
+    username: vinguyen
+    password: password
+    authMethod: SHA1
+item:
+    name: iphone13
+    value: 20000
+app:
+    datasource:
+        jdbc-url: "jdbc:mysql://localhost/test"
+        username: "dbuser"
+        password: "dbpass"
+        pool-size: 30
+
+
+
+
